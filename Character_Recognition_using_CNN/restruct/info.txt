@@ -1,0 +1,9 @@
+l'abbiamo usato per impostare tutte le immagini in una sola grandezza
+
+    // dirRoot = directory di root
+	// tiRoot = directory in cui si desidera copiare il set di dati ristrutturato
+	// untilDepth = specificare quanto deve essere profondo lo strumento per trovare i file
+	// FlatternDepth = specifica gli step delle directory, se specifico un livello prende le immagini
+	// del livello sottostante e le assegna al livello sopra a quello chiamato.
+	// split = specificare la dimensione di un blocco in cui verrà suddiviso il set di dati
+	// maxfiles = specificare il numero massimo di elementi da prendere da ciascuna sottodirectory
